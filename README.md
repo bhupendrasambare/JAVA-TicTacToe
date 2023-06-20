@@ -26,8 +26,8 @@ A simple java project to understand Java class, Swing, Interface, and clicable e
 > Working with UI
 
 ## Tech
-- [Java] - Base
-- [Swing]  - UI
+- [Java] - Base Application
+- [Swing]  - UI framework
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sam_being_alive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam_being_alive" height="30" width="40" /></a>&nbsp;&nbsp;
